@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="FamilyFeud">
+</Property><Property Name="Solution File" Value="C:\Users\ibarrar\Documents\Visual Studio 2010\Projects\FamilyFeud\FamilyFeud.sln">
+</Property><Property Name="Date" Value="Friday, May 06, 2011">
+</Property><Property Name="Time" Value="12:25 PM">
+</Property></Properties><Event ErrorLevel="0" Project="FamilyFeud" Source="FamilyFeud\FamilyFeud.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="FamilyFeud" Source="FamilyFeud\FamilyFeud.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="FamilyFeud.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="FamilyFeud.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="FamilyFeud" Source="FamilyFeud\FamilyFeud.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
